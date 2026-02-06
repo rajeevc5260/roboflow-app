@@ -1,0 +1,20 @@
+{
+  "name": "roboflow-app",
+  "version": "1.0.0",
+  "description": "Detect and crop objects using Roboflow API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "detect": "node index.js",
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["roboflow", "detect", "crop", "object-detection"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "sharp": "^0.33.5"
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+.env
+outputs/
+outputs-15/
+outputs-30/
+outputs-33/
+outputs-35/
+outputs-40/
+outputs-45/
+outputs-50/
+upload/*
+!upload/.gitkeep
+*.log
+.DS_Store
